@@ -51,6 +51,18 @@ a {
     width: 300px;
 }
 
+.hero .welcome h1 {
+font-size: 48px;
+font-weight: extra-bold;
+color: #F9FAF8;
+margin: 0;
+padding-bottom: 20px;
+}
+
+.hero .welcome p {
+
+}
+
 .hero-image {
     width: 300px;
 }
