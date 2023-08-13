@@ -60,7 +60,11 @@ padding-bottom: 20px;
 }
 
 .hero .welcome p {
-
+font-size: 18px;
+font-weight: 300;
+color: #E5E7EB;
+margin: 0;
+padding-bottom: 20px;
 }
 
 .hero-image {
