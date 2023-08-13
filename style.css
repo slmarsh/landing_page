@@ -31,12 +31,17 @@ ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     gap: 20px;
 }
 
 a {
     text-decoration: none;
+}
+
+.hero {
+    background-color: #1f2937;
+    padding: 0 100px;
+    
 }
 
 .hero-image {
