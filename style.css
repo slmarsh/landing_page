@@ -47,6 +47,12 @@ a {
     height: 320px;
 }
 
+.welcome {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    width: 300px;
+}
+
 .hero-image {
     width: 300px;
 }
