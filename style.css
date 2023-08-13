@@ -1,5 +1,10 @@
 body {
     font-family: roboto, sans-serif;
+    display: flex;
+    min-width: 100vh;
+    flex-direction: column;
+    align-content: center;
+
 }
 .header {
 background-color: #1f2937;
@@ -34,6 +39,11 @@ a {
 
 .hero-image {
     width: 450px;
+}
+
+.content {
+    display: flex;
+    flex: 1;
 }
 
 .highlight img {
