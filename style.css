@@ -40,7 +40,7 @@ a {
 
 .hero {
     background-color: #1f2937;
-    padding: 0 100px;
+    padding: 0 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,8 +48,6 @@ a {
 }
 
 .welcome {
-    /* display: flex; */
-    /* flex-wrap: wrap; */
     width: 300px;
 }
 
