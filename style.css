@@ -6,12 +6,13 @@ body {
     align-content: center;
     margin: 0;
 }
+
 .header {
-background-color: #1f2937;
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding: 0 80px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 80px;
 }
 
 .header p {
@@ -52,19 +53,19 @@ a {
 }
 
 .hero .welcome h1 {
-font-size: 48px;
-font-weight: extra-bold;
-color: #F9FAF8;
-margin: 0;
-padding-bottom: 20px;
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+    margin: 0;
+    padding-bottom: 20px;
 }
 
 .hero .welcome p {
-font-size: 18px;
-font-weight: 300;
-color: #E5E7EB;
-margin: 0;
-padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #E5E7EB;
+    margin: 0;
+    padding-bottom: 20px;
 }
 
 .hero-image {
@@ -83,12 +84,24 @@ padding-bottom: 20px;
 .content {
     display: flex;
     flex: 1;
+    flex-wrap: wrap;
 }
 
 .month-highlights {
     display: flex;
+    /* align-items: center; */
 }
 
 .highlight img {
     width: 200px;
+}
+
+.section-two {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.section-three {
+    display: flex;
 }
