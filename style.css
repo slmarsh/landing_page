@@ -1,7 +1,7 @@
 body {
     font-family: roboto, sans-serif;
     display: flex;
-    min-width: 100vh;
+    /* min-width: 100vh; */
     flex-direction: column;
     align-content: center;
     margin: 0;
