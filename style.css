@@ -89,6 +89,7 @@ a {
 
 .month-highlights {
     display: flex;
+    /* flex-wrap: wrap; */
     /* align-items: center; */
 }
 
@@ -96,12 +97,18 @@ a {
     width: 200px;
 }
 
-.section-two {
+.section-one {
     display: flex;
+    flex-direction: row;
     align-items: center;
     width: 100%;
 }
 
 .section-three {
+    /* display: flex; */
+}
+
+.footer {
     display: flex;
+    justify-content: center;
 }
