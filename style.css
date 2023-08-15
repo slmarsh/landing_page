@@ -126,6 +126,18 @@ a {
     align-items: center;
     width: 100%;
     background-color: #E5E7EB;
+    padding: 0 20%;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.author {
+
 }
 
 .section-three {
