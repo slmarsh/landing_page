@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     align-content: center;
     margin: 0;
+    /* padding: 0 15%; */
 }
 
 .header {
@@ -90,7 +91,7 @@ a {
 .section-one {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     width: 100%;
 }
 
@@ -103,7 +104,11 @@ a {
 
 .month-highlights {
     display: flex;
-    gap: 4%;
+    justify-content: center;
+}
+
+.highlight {
+    margin: 0 3%;
 }
 
 .highlight img {
