@@ -89,12 +89,20 @@ a {
 
 .month-highlights {
     display: flex;
-    /* flex-wrap: wrap; */
-    /* align-items: center; */
+    gap: 4%;
+}
+
+.subtext {
+    display: flex;
+    width: 200px;
+    flex-wrap: wrap;
+    text-align: center;
+    color: grey;
 }
 
 .highlight img {
     width: 200px;
+    border-radius: 5px;
 }
 
 .section-one {
