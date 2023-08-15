@@ -99,13 +99,18 @@ a {
 
 .section-one {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     width: 100%;
 }
 
+.section-two {
+    display: flex;
+    background-color: #E5E7EB;
+}
+
 .section-three {
-    /* display: flex; */
+    display: flex;
 }
 
 .footer {
