@@ -87,17 +87,23 @@ a {
     min-height: 100vh;
 }
 
+.section-one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.section-one h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    text-align: center;
+}
+
 .month-highlights {
     display: flex;
     gap: 4%;
-}
-
-.subtext {
-    display: flex;
-    width: 200px;
-    flex-wrap: wrap;
-    text-align: center;
-    color: grey;
 }
 
 .highlight img {
@@ -106,11 +112,12 @@ a {
     border: 2px solid blue;
 }
 
-.section-one {
+.subtext {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
+    width: 200px;
+    flex-wrap: wrap;
+    text-align: center;
+    color: grey;
 }
 
 .section-two {
