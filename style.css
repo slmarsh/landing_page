@@ -129,6 +129,7 @@ a {
 .section-two {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     width: 100%;
     background-color: #E5E7EB;
     padding: 0 23%;
