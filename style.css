@@ -153,6 +153,11 @@ a {
     width: 100%;
 }
 
+.section-three-content {
+    display: flex;
+    background-color: #2f78ef;
+}
+
 .footer {
     display: flex;
     justify-content: center;
