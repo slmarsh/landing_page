@@ -159,6 +159,8 @@ a {
     display: flex;
     background-color: #2f78ef;
     color: #F9FAF8;
+    width: 75%;
+    height: 40%;
 }
 
 .section-three button {
