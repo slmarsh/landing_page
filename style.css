@@ -156,6 +156,16 @@ a {
 .section-three-content {
     display: flex;
     background-color: #2f78ef;
+    color: #F9FAF8;
+}
+
+.section-three button {
+    background-color: #2f78ef;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 .footer {
