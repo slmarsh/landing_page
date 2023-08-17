@@ -165,6 +165,18 @@ a {
     align-items: center;
 }
 
+.action {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.sign-up {
+    font-size: 15px;
+    font-weight: 200;
+    margin: 5px 0 0;
+}
+
 .section-three button {
     background-color: #2f78ef;
     color: #F9FAF8;
