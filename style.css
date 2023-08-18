@@ -1,3 +1,4 @@
+
 body {
     font-family: roboto, sans-serif;
     display: flex;
@@ -53,6 +54,7 @@ a {
 }
 
 .hero .welcome h1 {
+
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
@@ -93,7 +95,7 @@ a {
     flex-direction: column;
     width: 100%;
     padding: 1% 20% 0;
-
+    justify-content: center;
 }
 
 .section-one h2 {
@@ -101,6 +103,7 @@ a {
     font-weight: 800;
     color: #1f2937;
     text-align: center;
+    margin: 0 0 30px;
 }
 
 .month-highlights {
